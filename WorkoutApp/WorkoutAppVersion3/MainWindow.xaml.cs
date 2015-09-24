@@ -31,6 +31,8 @@ namespace WorkoutAppVersion3
             InitializeComponent();
 
             ExerciseDataPanel.AddSetButtonLabelCreate += new EventHandler(AddSetButton_Clicked);
+
+            datePicker.SelectedDate = DateTime.Now;
         }
 
         public static class MiscDataStorage

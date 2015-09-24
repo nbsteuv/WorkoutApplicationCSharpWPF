@@ -10,9 +10,9 @@
         WindowStartupLocation="CenterScreen">
     <Grid Margin="2,0,0,-31" HorizontalAlignment="Left" Width="1000" Height ="700" RenderTransformOrigin="0.214,0.45">
         <Label Content="Date" Height="28" HorizontalAlignment="Left" Margin="24,14,0,0" Name="DateLabel" VerticalAlignment="Top" />
-        <DatePicker Height="25" HorizontalAlignment="Left" Margin="64,15,0,0" Name="datePicker" VerticalAlignment="Top" Width="115" SelectedDateChanged="datePicker_SelectedDateChanged" DisplayDate="2015-09-19" SelectedDateFormat="Long" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="64,15,0,0" Name="datePicker" VerticalAlignment="Top" Width="199" SelectedDateChanged="datePicker_SelectedDateChanged" DisplayDate="" SelectedDateFormat="Long" />
         <CheckBox x:Name="PreviousDataCheckBox" Content="I would like to show my previous data for comparison." HorizontalAlignment="Left" Margin="24,54,0,0" VerticalAlignment="Top" Checked="PreviousDataCheckBox_Checked" Unchecked="PreviousDataCheckBox_Unchecked"/>
-        <Button x:Name="SubmitButton" Content="Submit and Save My Workout Data" HorizontalAlignment="Left" Margin="230,15,0,0" VerticalAlignment="Top" Width="200" Click="SubmitButton_Click"/>
+        <Button x:Name="SubmitButton" Content="Submit and Save My Workout Data" HorizontalAlignment="Left" Margin="320,15,0,0" VerticalAlignment="Top" Width="200" Click="SubmitButton_Click"/>
         <StackPanel x:Name="MainContainer" HorizontalAlignment="Left" Height="700" Margin="24,73,0,0" VerticalAlignment="Top" Width="1000">
             <ScrollViewer x:Name="PreviousWorkoutScrollViewer" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Disabled" Height="82" Width="950" HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="Collapsed">
                 <StackPanel x:Name="PreviousWorkoutContainer" HorizontalAlignment="Left" Height="82" VerticalAlignment="Top" Width="1000" Visibility="Collapsed">

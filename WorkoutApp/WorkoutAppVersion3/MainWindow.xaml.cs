@@ -76,6 +76,13 @@ namespace WorkoutAppVersion3
             public static int OriginalPreviousWorkoutWidth = 1000;
         }
 
+        /// <summary>
+        /// TODO: Create lists of exercises here. There's no reason to have them as separate text files.
+        /// TOTO: Give user the ability to add to exercise lists.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
         private void datePicker_SelectedDateChanged(object sender, SelectionChangedEventArgs e)
         {
             MiscDataStorage.DateChosen = true;

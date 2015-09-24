@@ -1,0 +1,67 @@
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.pdb
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\MainWindow.g.cs
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\App.g.cs
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.cache
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.lref
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\MainWindow.baml
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.g.resources
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe
+c:\users\nick\documents\visual studio 2015\Projects\WorkoutAppVersion3\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window - Copy\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window - Copy\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Stack Panel in One Window - Copy\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.lref
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\ExerciseDataPanel.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\ExerciseDataPanel.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.g.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\SetDataPanel.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\SetDataPanel.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\SetLabels.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\SetLabels.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\LoadedExercise.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - User Control Version 2\WorkoutAppVersion3\obj\Debug\LoadedExercise.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\ExerciseDataPanel.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\LoadedExercise.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\SetDataPanel.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\SetLabels.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3_MarkupCompile.lref
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\ExerciseDataPanel.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\LoadedExercise.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\SetDataPanel.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\SetLabels.baml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.g.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe.manifest
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.application
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe.manifest
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\WorkoutAppVersion3 - Near Final\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.application

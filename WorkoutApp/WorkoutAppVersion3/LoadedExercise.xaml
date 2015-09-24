@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="WorkoutAppVersion3.LoadedExercise"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WorkoutAppVersion3"
+             mc:Ignorable="d" 
+             d:DesignHeight="32.612" d:DesignWidth="2000">
+    <Grid>
+        <StackPanel x:Name="LoadedExerciseDataContainer" HorizontalAlignment="Left" Height="32.612" Margin="0,0,0,0" VerticalAlignment="Top" Width="2000" Orientation="Horizontal">
+            <Label x:Name="MuscleGroupBox" Height="32.612" Content="TextBox" Width ="202" HorizontalAlignment="Left" HorizontalContentAlignment="Center"/>
+            <Label x:Name="ExerciseBox" Height="32.612" Content="TextBox" Width="262" HorizontalAlignment="Left" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+
+
+    </Grid>
+</UserControl>

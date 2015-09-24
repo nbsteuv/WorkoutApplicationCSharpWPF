@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="WorkoutAppVersion3.ExerciseDataPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WorkoutAppVersion3"
+             mc:Ignorable="d" 
+             Height="32.612" Width="462">
+    <Grid Margin="0,0,-422,237">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="200*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Name="ExerciseStackPanel" Height="30" Margin="0,0,422,-30" VerticalAlignment="Top" Orientation="Horizontal" Grid.ColumnSpan="2">
+            <Label x:Name="MuscleGroupLabel" Content="Muscle Group" Width="84"/>
+            <ComboBox x:Name="MuscleGroupSelector" Width="120" DropDownClosed="MuscleGroupSelector_DropDownClosed">
+                <ComboBoxItem Content="Chest" x:Name="Chest"/>
+                <ComboBoxItem Content="Back" x:Name="Back"/>
+                <ComboBoxItem Content="Arms" x:Name="Arms"/>
+                <ComboBoxItem Content="Abs" x:Name="Abs"/>
+                <ComboBoxItem Content="Shoulders" x:Name="Shoulders"/>
+                <ComboBoxItem Content="Legs" x:Name="Legs"/>
+            </ComboBox>
+            <Label x:Name="ExerciseLabel" Width ="52" Content="Exercise"/>
+            <ComboBox x:Name="ExerciseSelector" Width="120" DropDownClosed="ExerciseSelector_DropDownClosed"/>
+            <Button x:Name="AddSetButton" Content="Add Set" Width="65" Height="20" Click="AddSetButton_Click" Margin="5,5" />
+        </StackPanel>
+        <Grid HorizontalAlignment="Left" Height="0" Margin="331,30,0,-30" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</UserControl>
+

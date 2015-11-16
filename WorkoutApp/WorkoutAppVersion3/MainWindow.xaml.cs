@@ -346,7 +346,7 @@ namespace WorkoutAppVersion3
                 }
                 else if (showCSV == MessageBoxResult.No)
                 {
-                    MessageBox.Show("Fine. Find it yourself when you get around to it.");
+                    MessageBox.Show("That's fine. You can always look at it later by selecting the option at the top of the app.");
                 }
             }
         }

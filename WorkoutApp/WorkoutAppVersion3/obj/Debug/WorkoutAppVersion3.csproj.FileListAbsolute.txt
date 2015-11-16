@@ -72,7 +72,6 @@ C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutApp
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.application
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.exe
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\bin\Debug\WorkoutAppVersion3.pdb
-C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\ExerciseDataPanel.g.cs
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\LoadedExercise.g.cs
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\MainWindow.g.cs
@@ -91,3 +90,4 @@ C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutApp
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csproj.GenerateResource.Cache
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.exe.manifest
 C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.application
+C:\Users\Nick\Documents\GitHub\WorkoutApplicationCSharpWPF\WorkoutApp\WorkoutAppVersion3\obj\Debug\WorkoutAppVersion3.csprojResolveAssemblyReference.cache

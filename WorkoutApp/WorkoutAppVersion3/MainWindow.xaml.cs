@@ -56,7 +56,6 @@ namespace WorkoutAppVersion3
         {
             public static List<ExerciseDataPanel.Exercise> Exercises = new List<ExerciseDataPanel.Exercise>();
             public static List<string> SetHeaderList = new List<string> {",," };
-            public static List<string> ExerciseHeaderList = new List<string>();
         }
 
         public static class PreviousExercise
